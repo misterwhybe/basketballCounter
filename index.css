@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: white;
+    background-color: #1B244A;
+}
+
+.scoreHome {
+    background: #0a0001;
+    font-size: 90px;
+	font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+.scoreAway {
+    background: #0a0001;
+    font-size: 90px;
+	font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    color: #9AABD8;
+    border-color: #9AABD8;
+}
+
+
+
